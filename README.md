@@ -8,7 +8,7 @@ sudo yum update –y
 sudo wget -O /etc/yum.repos.d/jenkins.repo \
     https://pkg.jenkins.io/redhat-stable/jenkins.repo
 ```
-## 설치할 수 있도록 키파일 가져옵니다.
+## 설치할 수 있도록 키파일을 가져옵니다.
 ```
 sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 ```
