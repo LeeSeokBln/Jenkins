@@ -37,4 +37,4 @@ sudo systemctl start jenkins
 ```
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
-Jenkins에 로그인한 후 Jenkins관리 > 플러그인 관리 > Available plugins 로 가서 CodePipeline을 설치합니다.
+Jenkins에 로그인한 후 Jenkins관리 > 플러그인 관리 > Available plugins 로 가서 AWS CodePipeline을 설치합니다.
