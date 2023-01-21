@@ -31,6 +31,8 @@ sudo systemctl enable jenkins
 ```
 sudo systemctl start jenkins
 ```
+## Jenkins에 접속하기 위해 <인스턴스의 퍼블릭IP>:8080 으로 접속합니다.
+
 ## Jenkmins암호를 확인합니다.
 ```
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
