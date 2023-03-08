@@ -13,7 +13,7 @@ sudo wget -O /etc/yum.repos.d/jenkins.repo \
 sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 ```
 ```
-sudo yum upgrade
+sudo yum upgrade -y
 ```
 ## 자바를 설치합니다.
 ```
